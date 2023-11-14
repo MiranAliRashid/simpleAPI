@@ -1,0 +1,5 @@
+Product1,10,29.99,images/product1.jpg
+Product2,5,49.99,images/product2.jpg
+Product3,20,14.95,images/product3.jpg
+Product4,8,39.99,images/product4.jpg
+Product5,15,19.99,images/product5.jpg
